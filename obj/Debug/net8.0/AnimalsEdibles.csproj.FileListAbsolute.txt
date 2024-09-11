@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\obj\Debug\net8.0\AnimalsEdibles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\obj\Debug\net8.0\AnimalsEdibles.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\obj\Debug\net8.0\AnimalsEdibles.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\obj\Debug\net8.0\AnimalsEdibles.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\bin\Debug\net8.0\AnimalsEdibles.exe
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\bin\Debug\net8.0\AnimalsEdibles.deps.json
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\bin\Debug\net8.0\AnimalsEdibles.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\bin\Debug\net8.0\AnimalsEdibles.dll
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\bin\Debug\net8.0\AnimalsEdibles.pdb
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\obj\Debug\net8.0\AnimalsEdibles.dll
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\obj\Debug\net8.0\refint\AnimalsEdibles.dll
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\obj\Debug\net8.0\AnimalsEdibles.pdb
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\obj\Debug\net8.0\AnimalsEdibles.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\AnimalsEdibles\obj\Debug\net8.0\ref\AnimalsEdibles.dll
